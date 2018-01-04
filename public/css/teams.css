@@ -1,0 +1,110 @@
+.cell-header.team1{
+    background-image: url("../img/team1.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team3{
+    background-image: url("../img/team3.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team4{
+    background-image: url("../img/team4.jpg");
+    color: #000;
+}
+
+.cell-header.team6{
+    background-image: url("../img/team6.jpg");
+    color: #000;
+}
+
+.cell-header.team8{
+    background-image: url("../img/team8.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team11{
+    background-image: url("../img/team11.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team13{
+    background-image: url("../img/team13.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team14{
+    background-image: url("../img/team14.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team20{
+    background-image: url("../img/team20.jpg");
+    color: #000;
+}
+
+.cell-header.team21{
+    background-image: url("../img/team21.jpg");
+    color: #e2c000;
+}
+
+.cell-header.team31{
+    background-image: url("../img/team31.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team35{
+    background-image: url("../img/team35.jpg");
+    color: #960000;
+    text-shadow:
+            -1px -1px 0 #fff,
+            1px -1px 0 #fff,
+            -1px 1px 0 #fff,
+            1px 1px 0 #fff;
+}
+
+.cell-header.team36{
+    background-image: url("../img/team36.jpg");
+    color: #000;
+}
+
+.cell-header.team38{
+    background-image: url("../img/team38.jpg");
+    color: #e2b900;
+}
+
+.cell-header.team43{
+    background-image: url("../img/team43.jpg");
+    color: #eeeeee;
+}
+
+.cell-header.team57{
+    background-image: url("../img/team57.jpg");
+    color: #c40000;
+    text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;
+}
+
+
+.cell-header.team80{
+    background-image: url("../img/team80.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team90{
+    background-image: url("../img/team90.jpg");
+    color: #00e1ff;
+}
+
+.cell-header.team91{
+    background-image: url("../img/team91.jpg");
+    color: #cccccc;
+}
+
+.cell-header.team110{
+    background-image: url("../img/team110.jpg");
+    color: #000;
+}
